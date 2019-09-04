@@ -1,2 +1,2 @@
 # rubyOnRailsBLog
-in progress
+in progress--works fine, needs styling
