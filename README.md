@@ -3,6 +3,7 @@ in progress--works fine, needs styling
 
 ### clone down & run:
 (with ruby, rails, and bundler installed)
+
 1.`bundle install gems`
 
 2.`rails s`
